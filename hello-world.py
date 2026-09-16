@@ -1,3 +1,4 @@
 # Python file
-print("Hello, World!")
-hello-world2
+name=input("What is your name? ")
+print("Hello, " + name)
+
